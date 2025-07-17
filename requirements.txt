@@ -1,0 +1,6 @@
+
+flask
+flask-cors
+paddleocr
+opencv-python-headless
+numpy
